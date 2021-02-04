@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Things I code with
+### Things I code/work with
 ![css3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![html5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![php](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
