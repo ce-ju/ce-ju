@@ -9,5 +9,5 @@
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![visualstudiocode](https://img.shields.io/badge/-Visual%20Studio%20Code-5C2D91?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![mysql](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![mysql](https://img.shields.io/badge/-NEXTJS-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![nextjs](https://img.shields.io/badge/-NEXTJS-4479A1?style=flat-square&logo=nextjs&logoColor=white)
 ![Plesk](https://img.shields.io/badge/-Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white)
